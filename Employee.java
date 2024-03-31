@@ -26,7 +26,6 @@ class Employee {
     public double getHourlyRate() {
         return hourlyRate;
     }
-
     public double getHoursWorked() {
         return hoursWorked;
     }
